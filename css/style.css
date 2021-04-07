@@ -5,3 +5,18 @@ p {
     left: 50%;
     transform: translate(-50% , -50%);
 }
+
+.nested > .col-6 {
+    background-color: #f07f80;  
+    border: 2px solid white;  
+}
+
+.nested > .col-2 {
+    background-color: #f07f80;  
+    border: 2px solid white;
+}
+
+.nested > .col-8 {
+    background-color: #f07f80;  
+    border: 2px solid white;
+}
